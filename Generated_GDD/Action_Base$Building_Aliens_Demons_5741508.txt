@@ -1,0 +1,15 @@
+TOP LEVEL GENRE: Action
+GENRE: Base Building
+SUB GENRE: Grand Strategy
+VISUALS: 3D
+THEME 1: Aliens
+THEME 2: Demons
+FEATURES: Resource Management
+PLAYERS: Multiplayer
+ASSESSMENT: Fast-Paced
+
+==========
+
+Asteroid Apocalypse 
+
+GAME OVERVIEW: Asteroid Apocalypse is a base building grand strategy game for multiplayer for up to four players. In the game, players will take on the role of aliens or demons who are vying for control of an asteroid belt. The game features resource management, fast-paced gameplay, and unique characters.

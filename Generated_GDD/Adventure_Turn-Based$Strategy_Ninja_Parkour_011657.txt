@@ -1,0 +1,15 @@
+TOP LEVEL GENRE: Adventure
+GENRE: Turn-Based Strategy
+SUB GENRE: Time Management
+VISUALS: First-Person
+THEME 1: Ninja
+THEME 2: Parkour
+FEATURES: Team-Based
+PLAYERS: Multiplayer
+ASSESSMENT: Short Gameplay
+
+==========
+
+NINJA PARKOUR 
+
+GAME OVERVIEW: Ninja Parkour is a multiplayer turn-based strategy game where players take on the role of ninjas competing in a parkour race. The objective of the game is to be the first to reach the finish line, using whatever means necessary. The game rules are simple: players must use their ninja skills to navigate the obstacle-filled environment, while avoiding or defeating enemies. The game environment is a city filled with various obstacles and enemies. The characters are ninjas of different races and abilities. The game's unique selling points are its fast-paced gameplay, its innovative use of parkour mechanics, and its team-based multiplayer mode.

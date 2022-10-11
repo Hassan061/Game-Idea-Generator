@@ -1,0 +1,21 @@
+TOP LEVEL GENRE: Adventure
+GENRE: Shooter
+SUB GENRE: Traditional Roguelike
+VISUALS: 3D
+THEME 1: Nature
+THEME 2: Ninja
+FEATURES: Hack and Slash
+PLAYERS: Single player
+ASSESSMENT: Short Gameplay
+
+==========
+
+NINJA WARRIOR: NATURE'S WRATH 
+
+GAME OVERVIEW: Take control of a young ninja warrior on a quest to vanquish evil from the land and restore balance to nature. Armed with only your trusty katana and ninja skills, traverse procedurally generated levels inspired by Japanese feudal-era architecture and landscapes. Fight fearsome enemies such as giant snakes, bears, monkeys, and dragons, with unique attack patterns and abilities. Collect power-ups and items to help you on your journey, but be careful – die too many times and you'll have to start all over again. Can you become the ultimate ninja warrior and save the day? 
+
+GAME OBJECTIVES: The objective of the game is to reach the end of the procedurally generated level, defeating all enemies in your path. Each level becomes progressively more difficult, with tougher enemies and more obstacles to overcome. Along the way, you'll collect power-ups and items to help you in your quest. Use these wisely, as they will be essential in defeating bosses and other difficult opponents. Can you become the ultimate ninja warrior and save the day? 
+
+GAME RULES: - The game is played from a third-person perspective. - Players must use their ninja skills to traverse each level, avoiding enemy attacks and hazards. - Players can attack enemies with their katana, utilizing different combos for different results. - Power-ups and items can be collected throughout each level to help players in their journey. - The game features procedurally generated levels, meaning that each time you play, the levels will be different. - Upon death, players will restart from the beginning of the level. However, they will retain any power-ups or items that they collected during their previous playthrough. - The game features multiple boss battles against fierce opponents. Defeating these bosses is required to progress through the game. 
+
+GAME LOOP: The game loop for Ninja Warrior: Nature's Wrath consists of the player traversing a procedurally generated level while avoiding enemy attacks and hazards. Along the way, players can collect power-ups and items to help them in their quest. Once all enemies in the level have been defeated, the player progresses to the next level where they must repeat the process until they reach the final boss battle. Upon death, players will restart from the beginning of the current level but retain any power-ups or items that they collected during their previous playthrough

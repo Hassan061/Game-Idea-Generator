@@ -1,0 +1,27 @@
+TOP LEVEL GENRE: Casual
+GENRE: Point & Click
+SUB GENRE: Shoot 'Em Up
+VISUALS: 3D
+THEME 1: Dragons
+THEME 2: Futuristic
+FEATURES: Minigames
+PLAYERS: Single player
+ASSESSMENT: Relaxing
+
+==========
+
+Dragonverse 
+
+GAME OVERVIEW: In Dragonverse, you take on the role of a dragonrider in a futuristic world where dragons are used for transportation, combat, and more. your goal is to complete various objectives and tasks, while also staying alive in a hostile world full of other dragon riders and other dangers. 
+
+GAME OBJECTIVES: Complete various objectives and tasks given to you throughout the game. These can range from simple fetch quests to more complex combat missions. 
+
+GAME RULES: Follow the on-screen prompts and instructions to complete the game's objectives. Pay attention to your environment and be prepared for anything that might come your way. 
+
+GAME LOOP: The game loop is fairly simple. You'll receive objectives from NPCs, complete them, and then receive rewards or new objectives. Rinse and repeat until you reach the end of the game. 
+
+GAME ENVIRONMENT: The game environment is a hostile and dangerous one. You'll be up against other dragon riders as well as other dangers such as wild animals and treacherous terrain. Be prepared for anything that comes your way. 
+
+CHARACTERS: You will take on the role of a dragon rider in Dragonverse. You'll be able to customize your character's appearance, equipment, and abilities to suit your playstyle. There are also a variety of NPC characters that you'll encounter throughout the game, some friendly and some not so much. 
+
+UNIQUE SELLING POINTS:  -A unique twist on the shoot 'em up genre with dragons! -Futuristic setting with a variety of different locations to explore -A variety of different objectives to keep you engaged -Customizable characters and dragons

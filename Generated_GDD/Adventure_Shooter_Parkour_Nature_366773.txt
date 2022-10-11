@@ -1,0 +1,21 @@
+TOP LEVEL GENRE: Adventure
+GENRE: Shooter
+SUB GENRE: Hero Shooter
+VISUALS: First-Person
+THEME 1: Parkour
+THEME 2: Nature
+FEATURES: Open World
+PLAYERS: Single player
+ASSESSMENT: Emotional
+
+==========
+
+The game is called "The Great Adventure". 
+
+GAME OVERVIEW: The Great Adventure is an open world, first-person shooter game that follows the story of the player character as they explore a massive nature park. The park is filled with beautiful landscapes and deadly wildlife, and it is up to the player to navigate their way through it. The game features a unique parkour system that allows the player to traverse the environment in creative ways, and a variety of weapons and abilities that they can use to fend off the dangerous wildlife. The objective of the game is to reach the end of the park, alive. 
+
+GAME OBJECTIVES: The objective of the game is to reach the end of the nature park alive. Along the way, the player will need to navigate through dangerous environments and fight off deadly wildlife. They will also need to collect resources in order to survive, and craft helpful items using a variety of materials found in the world. 
+
+GAME RULES: The player can move freely around the environment and interact with objects in order to progress. They will need to fight off hostile wildlife using a variety of weapons and abilities, and collect resources in order to craft items and survive. The player can also use the parkour system to traverse the environment in creative ways. 
+
+GAME LOOP: The game loop for The Great Adventure consists of exploring the environment, fighting off hostile wildlife, and collecting resources. The player will need to use these resources to craft items and survive, as well as traverse the environment in creative ways. If they are able to reach the end of the park alive, they will win the game.

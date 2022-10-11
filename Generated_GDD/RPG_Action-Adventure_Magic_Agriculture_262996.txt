@@ -1,0 +1,23 @@
+TOP LEVEL GENRE: RPG
+GENRE: Action-Adventure
+SUB GENRE: Grand Strategy
+VISUALS: Third Person
+THEME 1: Magic
+THEME 2: Agriculture
+FEATURES: Minigames
+PLAYERS: Multiplayer
+ASSESSMENT: Epic
+
+==========
+
+The Agricultural Mage 
+
+GAME OVERVIEW: In The Agricultural Mage, players take on the role of a young farmer who discovers they have magical abilities. With these abilities, they must help their village to grow and prosper by planting and harvesting crops, using magic to ward off pests and monsters, and delving into dungeons to find treasure. Along the way, they will also be able to learn new spells, cook recipes, and craft items to help them on their quest. The Agricultural Mage is a lighthearted action-adventure RPG with a focus on grand strategy elements, giving players a wide variety of options for how to approach each situation. 
+
+GAME OBJECTIVES: The primary objective of The Agricultural Mage is to help the player's village grow and prosper. This is done by planting and harvesting crops, using magic to ward off pests and monsters, and delving into dungeons to find treasure. The game also features a number of side objectives, such as cooking recipes, crafting items, and learning new spells. 
+
+GAME RULES: The game is played in real-time, with the player controlling their character using a point-and-click interface. Movement is grid-based, with the character automatically stopping at obstacles such as walls or trees. Combat is also grid-based, with the player choosing targets for their character's attacks and spells. The game features turn-based combat for boss encounters. In addition to the main questline, the game features a number of side quests and minigames that the player can optionally take part in. 
+
+GAME LOOP: The game loop for The Agricultural Mage consists of four main phases: Planting/Harvesting Crops, Warding Off Pests/Monsters, Delving Into Dungeons, and Resting/Preparing For Next Day. These phases repeat until the player completes the game's objectives. During each phase, the player must complete a certain number of tasks before moving on to the next one. For example, during the Planting/Harvesting Crops phase, the player must plant a certain number of crops and then harvest them when they are ready. If the player neglects their crops or fails to protect them from pests/monsters, they will not yield a good harvest. Likewise, during the Delving Into Dungeons phase, the player must complete a dungeon before moving on to the next one. If they are defeated in combat or fail to solve puzzles, they will be forced to start over from the beginning of that dungeon. 
+
+GAME ENVIRONMENT: The Agricultural Mage takes place in a cheerful fantasy world inspired by Medieval Europe. The player's village is surrounded by rolling hillsides dotted with farms and small forests. Beyond that lies an ever-expanding kingdom full of cities, castles, dungeons, & mystery!

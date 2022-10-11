@@ -1,0 +1,19 @@
+TOP LEVEL GENRE: Adventure
+GENRE: Shooter
+SUB GENRE: Time Management
+VISUALS: Top-Down
+THEME 1: Cyberpunk
+THEME 2: Aliens
+FEATURES: Resource Management
+PLAYERS: Multiplayer
+ASSESSMENT: Difficult
+
+==========
+
+Dystopia 
+
+GAME OVERVIEW: A group of survivors are stranded in a post-apocalyptic world where they must scavenge for resources and fight for their lives against hostile aliens. The objective of the game is to survive and thrive in this hostile environment. 
+
+GAME OBJECTIVES: The objective of the game is to survive and thrive in this hostile environment. The player must scavenge for resources, build shelter, and fight off aliens to stay alive. 
+
+GAME RULES: 1. The player must scavenge for resources to survive. 2. The player must build shelter to protect themselves from the harsh environment. 3. The player must fight off aliens to stay alive. 4. The player can cooperate with other players to increase their chances of survival.

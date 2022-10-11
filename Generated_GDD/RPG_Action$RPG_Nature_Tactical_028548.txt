@@ -1,0 +1,25 @@
+TOP LEVEL GENRE: RPG
+GENRE: Action RPG
+SUB GENRE: Tactical
+VISUALS: 2D
+THEME 1: Nature
+THEME 2: Tactical
+FEATURES: Open World
+PLAYERS: Single player
+ASSESSMENT: Short Gameplay
+
+==========
+
+The title of the game is "Nature's Wrath". 
+
+GAME OVERVIEW: In "Nature's Wrath", the player takes on the role of a young Nature Mage who must use their powers to defend their home from a group of evil wizards who are trying to destroy it. The player will use their magic to fight off the enemy wizards, and ultimately save their home. 
+
+GAME OBJECTIVES: The objectives of "Nature's Wrath" are to save the player's home from destruction, and to defeat the evil wizards who are trying to destroy it. 
+
+GAME RULES: The rules of "Nature's Wrath" are simple: use your magic to fight off the enemy wizards and save your home. 
+
+GAME LOOP: The game loop of "Nature's Wrath" is as follows: the player will fight enemy wizards using their magic, and when they have defeated all of the enemy wizards, they will save their home from destruction. 
+
+GAME ENVIRONMENT: The game environment of "Nature's Wrath" is a magical forest that is being threatened by a group of evil wizards. The player must use their magic to protect the forest and defeat the evil wizards. 
+
+CHARACTERS: + Nature Mage - The player character. A young mage who must use their magic to save their home from destruction. - Evil Wizards - The villains of the game who are trying to destroy the players home.

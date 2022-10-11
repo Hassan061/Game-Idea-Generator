@@ -1,0 +1,25 @@
+TOP LEVEL GENRE: Adventure
+GENRE: Shooter
+SUB GENRE: Time Management
+VISUALS: Top-Down
+THEME 1: Dinosaurs
+THEME 2: Colorful
+FEATURES: Combat
+PLAYERS: Multiplayer
+ASSESSMENT: Addictive
+
+==========
+
+Dinosaur Hunter 
+
+GAME OVERVIEW: In Dinosaur Hunter, you take on the role of a dinosaur hunter in a time management shooter. The objective is to kill as many dinosaurs as possible within the given time limit. The game features combat against various dinosaur types, as well as colourful visuals and multiplayer support. 
+
+GAME OBJECTIVES: The objective of the game is to kill as many dinosaurs as possible within the given time limit. 
+
+GAME RULES: The game rules are simple – kill as many dinosaurs as you can within the given time limit. There are various types of dinosaurs to fight, each with their own unique abilities. Use your skills and strategy to defeat them all! 
+
+GAME LOOP: The game loop is simple – kill dinosaurs to get points, and try to get the high score before the time runs out. There are various types of dinosaurs to fight, each with their own unique abilities. Use your skills and strategy to defeat them all! 
+
+GAME ENVIRONMENT: The game environment is set in a prehistoric world where you must face off against various types of dinosaurs. Use your skills and strategy to defeat them all! 
+
+CHARACTERS: -You take on the role of a dinosaur hunter -Various types of dinosaurs that you must face off against

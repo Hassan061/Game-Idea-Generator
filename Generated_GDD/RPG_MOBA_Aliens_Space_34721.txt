@@ -1,0 +1,25 @@
+TOP LEVEL GENRE: RPG
+GENRE: MOBA
+SUB GENRE: Open World Survival Craft
+VISUALS: 2D
+THEME 1: Aliens
+THEME 2: Space
+FEATURES: Crafting
+PLAYERS: Multiplayer
+ASSESSMENT: Beautiful
+
+==========
+
+Asteroid Belt07 
+
+GAME OVERVIEW: Asteroid Belt07 is a multiplayer online game in which players are stranded on a remote asteroid mining colony. They must work together to survive and escape the asteroid field before the hostile aliens find them. 
+
+GAME OBJECTIVES: Players must mine resources, build shelter, craft weapons and armor, and defend themselves against the aliens. The goal is to escape the asteroid field alive. 
+
+GAME RULES: Players can mine resources, build structures, craft items, and fight aliens. They cannot fly off the map or leave the asteroid field. 
+
+GAME LOOP: Players will login to the game, select their character, and spawn on the asteroid. They will then have to mine resources, build shelter, craft items, and fight aliens in order to survive and escape the asteroid field. 
+
+GAME ENVIRONMENT: The game environment is a 3D asteroid field with different types of asteroids. There is no atmosphere or gravity, so players can move freely in any direction. 
+
+CHARACTERS: -Player Characters: Each player will create their own character with different stats and abilities. -Alien Characters: There are various types of aliens that players will encounter. They will be aggressive and attempt to kill the players.

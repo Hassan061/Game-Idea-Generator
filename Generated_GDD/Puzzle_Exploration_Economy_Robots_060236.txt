@@ -1,0 +1,25 @@
+TOP LEVEL GENRE: Puzzle
+GENRE: Exploration
+SUB GENRE: Looter Shooter
+VISUALS: First-Person
+THEME 1: Economy
+THEME 2: Robots
+FEATURES: Combat
+PLAYERS: Single player
+ASSESSMENT: Difficult
+
+==========
+
+Inflated: The Video Game 
+
+GAME OVERVIEW: In Inflated, you play as a disgruntled employee who has been tasked with cleaning up the factory floor at a failing company. The catch is, the factory is full of obstacles and traps, and you must use your wits and platforming skills to navigate through it all. The game is set up like a series of levels, each with its own unique challenges. The goal is to reach the end of each level without getting caught by the security guards or falling into any of the traps. Along the way, you can collect coins to buy upgrades for your character. 
+
+GAME OBJECTIVES: The objective of Inflated is to reach the end of each level without getting caught or falling into any traps. Collecting coins along the way will allow you to buy upgrades for your character. 
+
+GAME RULES: The game is played from a first-person perspective. You must navigate through each level avoiding obstacles and traps. If you are caught by a security guard or fall into a trap, you will be sent back to the beginning of the level. You can collect coins to buy upgrades for your character, such as a double jump or a higher jump. 
+
+GAME LOOP: The game loop for Inflated consists of going through each level, avoiding traps and trying to reach the end. If you are successful, you move on to the next level. If you fail, you start the level over again. You can also collect coins along the way to buy upgrades for your character. 
+
+GAME ENVIRONMENT: The game environment is set in a factory full of obstacles and traps. You must use your platforming skills to navigate through it all. There are security guards patrolling the area, so you must be careful not to get caught. There are also numerous traps that can send you back to the beginning of the level if you are not careful. Collecting coins will allow you to buy upgrades for your character so that you can better navigate through the factory floors. 
+
+CHARACTERS: -The protagonist is a disgruntled employee who has been tasked with cleaning up the factory floor at a failing company -Security guards are patrolling the area and will catch the protagonist if they get too close -Traps are scattered throughout the levels which will send the protagonist back to the beginning if they are triggered

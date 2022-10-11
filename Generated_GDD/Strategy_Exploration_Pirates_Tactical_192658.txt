@@ -1,0 +1,25 @@
+TOP LEVEL GENRE: Strategy
+GENRE: Exploration
+SUB GENRE: Shoot 'Em Up
+VISUALS: 3D
+THEME 1: Pirates
+THEME 2: Tactical
+FEATURES: Building
+PLAYERS: Single player
+ASSESSMENT: Addictive
+
+==========
+
+Pirate Adventure 
+
+GAME OVERVIEW: Pirate Adventure is a 3D exploration shoot 'em up game where players take on the role of a pirate captain. The aim of the game is to build a pirate ship, equip it with a crew and weapons, and set sail on a series of adventures. The game features tactical combat, treasure hunting, and shipbuilding. The game is single player. 
+
+GAME OBJECTIVES: The objectives of the game are to build a pirate ship, equip it with a crew and weapons, and set sail on a series of adventures. The player must also defeat enemy pirates and loot their ships for treasure. 
+
+GAME RULES: The game rules are simple: the player must defeat enemy pirates and loot their ships for treasure. In order to do this, the player must first build a pirate ship. The player can then equip the ship with a crew and weapons. Finally, the player sets sail on a series of adventures. 
+
+GAME LOOP: The game loop is as follows: the player builds a pirate ship, equips it with a crew and weapons, sets sail on a series of adventures, defeats enemy pirates, and loots their ships for treasure. The player then repeats this process until they have completed all of the objectives or run out of lives. 
+
+GAME ENVIRONMENT: The game environment is set in an open world environment where players can explore at their leisure. The environment is filled with hostile pirates who will attack the player on sight. In order to defend themselves, the player must build a pirate ship and equip it with weapons and crew members. 
+
+CHARACTERS: There are numerous characters in Pirate Adventure, including but not limited to: Player character- The protagonist of the story; takes on the role of captain of their own pirate ship Antagonist- Various hostile pirates who will attack the player character on sight; must be defeated in order to progress in the game Crew members- Characters who can be hired by the player character in order to help run their pirate ship; each character has their own unique skills and abilities Weapon vendors- Characters who sell weapons to the player character; can be used to equip the pirate ship with weaponry Treasure hunters- Characters who search for treasure; can be hired by the player character in order to help them find treasure

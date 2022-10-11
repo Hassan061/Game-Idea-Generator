@@ -1,0 +1,27 @@
+TOP LEVEL GENRE: Casual
+GENRE: MMORPG
+SUB GENRE: Time Management
+VISUALS: First-Person
+THEME 1: Demons
+THEME 2: Survival
+FEATURES: Combat
+PLAYERS: Multiplayer
+ASSESSMENT: Short Gameplay
+
+==========
+
+Demon's Wrath 
+
+GAME OVERVIEW: Demon's Wrath is a multiplayer survival game set in a post-apocalyptic world overrun by demons. Players must work together to scavenge supplies, build shelter, and defend themselves against the hordes of demons that roam the land. The game features combat against a variety of demon enemies, as well as other players. The objective of the game is to survive for as long as possible. 
+
+GAME OBJECTIVES: -Survive for as long as possible -Gather supplies and build shelter -Defend against hordes of demons 
+
+GAME RULES: -Players must cooperate to survive -Players can battle other players as well as demons -The last player standing wins the game 
+
+GAME LOOP: The game loop for Demon's Wrath consists of gathering supplies, building shelter, and defending against demon attacks. Players must gather resources to build shelter and craft weapons and armor to defend themselves. The game ends when all players are killed or the last player standing kills all the other players. 
+
+GAME ENVIRONMENT: Demon's Wrath takes place in a post-apocalyptic world that has been overrun by demons. The environment is hostile and dangerous, with demon enemies lurking around every corner. 
+
+CHARACTERS: There are two types of characters in Demon's Wrath: player characters and demon enemies. Player characters are controlled by the player, while demon enemies are controlled by the computer. 
+
+UNIQUE SELLING POINTS:  - Multiplayer survival game set in a post-apocalyptic world overrun by demons - Features combat against a variety of demon enemies, as well as other players - Last player standing wins the game

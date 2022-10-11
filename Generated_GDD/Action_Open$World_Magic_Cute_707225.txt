@@ -1,0 +1,21 @@
+TOP LEVEL GENRE: Action
+GENRE: Open World
+SUB GENRE: Shoot 'Em Up
+VISUALS: Third Person
+THEME 1: Magic
+THEME 2: Cute
+FEATURES: Turn-Based
+PLAYERS: Single player
+ASSESSMENT: Addictive
+
+==========
+
+Cute Magic Shoot 'Em Up 
+
+GAME OVERVIEW: In Cute Magic Shoot 'Em Up, players take control of a cute little magician who must shoot their way through hordes of enemies in an open world environment. The game features turn-based gameplay, unique selling points include its cute visuals and magical theme. 
+
+GAME OBJECTIVES: The objective of Cute Magic Shoot 'Em Up is to shoot and destroy as many enemies as possible in order to progress through the game's levels. 
+
+GAME RULES: Players will use their magic to shoot at enemies, using a variety of magical spells. They must avoid being hit by enemy attacks, and must destroy all enemies in order to progress. 
+
+GAME LOOP: The game loop of Cute Magic Shoot 'Em Up is simple yet addicting; players will be engaged in fighting never-ending hordes of enemies, using their magic to defeat them. As they progress, they will unlock new spells and abilities to help them in battle.

@@ -1,0 +1,15 @@
+TOP LEVEL GENRE: Strategy
+GENRE: Battle Royale
+SUB GENRE: Hack and Slash
+VISUALS: 2D
+THEME 1: Tactical
+THEME 2: Space
+FEATURES: Resource Management
+PLAYERS: Multiplayer
+ASSESSMENT: Addictive
+
+==========
+
+The title of the game is "Asteroids". 
+
+GAME OVERVIEW: The objective of the game is to survive as long as possible, while avoiding being hit by asteroids. The game is set in space, and players will need to use their resources wisely to last as long as possible. There is no set time limit, and the game can be played indefinitely. The game has simple controls, and easy to learn mechanics. Players will need to use strategy and tactica

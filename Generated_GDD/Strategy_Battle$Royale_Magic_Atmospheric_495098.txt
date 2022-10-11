@@ -1,0 +1,27 @@
+TOP LEVEL GENRE: Strategy
+GENRE: Battle Royale
+SUB GENRE: Trading Card Game
+VISUALS: First-Person
+THEME 1: Magic
+THEME 2: Atmospheric
+FEATURES: Turn-Based
+PLAYERS: Single player
+ASSESSMENT: Emotional
+
+==========
+
+The title of the game is "The Battle of the Elements." 
+
+GAME OVERVIEW: In "The Battle of the Elements," players take on the role of a powerful elemental magician, battling against other players in an online arena. The goal of the game is to be the last player standing, by defeating all other players in combat. 
+
+GAME OBJECTIVES: The objectives of "The Battle of the Elements" are to defeat all other players in combat, and to become the last player standing. 
+
+GAME RULES: The rules of "The Battle of the Elements" are simple: players must use their magical powers to battle against others in an online arena. The last player standing is the winner. 
+
+GAME LOOP: "The Battle of the Elements" is a turn-based game, meaning that each player takes their turn to make a move in combat. When all players have made their move, the next turn begins. This continues until one player has defeated all others, and is declared the winner. 
+
+GAME ENVIRONMENT: "The Battle of the Elements" takes place in an online arena. The arena is a magical space where anything is possible, and where the rules of physics do not necessarily apply. This allows for a wide variety of creative and over-the-top spells and abilities to be used in combat. 
+
+CHARACTERS: There are two types of characters in "The Battle of the Elements": elemental magicians, and summoned creatures. Elemental magicians are powerful magic users who control one or more elements, such as fire, water, earth, or air. They use their magic to battle against other players in the arena. Summoned creatures are creatures that have been summoned by an elemental magician to aid them in battle. These creatures can be used for a variety of purposes, such as attacking other players or defending their summoner. 
+
+UNIQUE SELLING POINTS:  "The Battle of the Elements" is a unique and exciting battle royale game that features turn-based gameplay and allows for a wide variety of creative and strategic spellcasting combos.

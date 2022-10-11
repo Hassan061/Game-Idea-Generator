@@ -1,0 +1,19 @@
+Action RPG
+Action-Adventure
+Auto Battler
+Base Building
+Battle Royale
+Exploration
+Fighting
+MMORPG
+MOBA
+Open World
+Party-Based RPG
+Platformer
+Point & Click
+Roguelike
+RTS
+Sandbox
+Shooter
+Survival
+Turn-Based Strategy

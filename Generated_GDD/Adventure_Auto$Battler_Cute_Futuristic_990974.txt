@@ -1,0 +1,21 @@
+TOP LEVEL GENRE: Adventure
+GENRE: Auto Battler
+SUB GENRE: Action Roguelike
+VISUALS: Third Person
+THEME 1: Cute
+THEME 2: Futuristic
+FEATURES: Minigames
+PLAYERS: Single player
+ASSESSMENT: Difficult
+
+==========
+
+The title of my game is "Cute Futuristic Auto Battler". 
+
+GAME OVERVIEW: "Cute Futuristic Auto Battler" is a third-person action roguelike video game with cute visuals and futuristic themes. The objective of the game is to win battles against rival teams of autobots by strategically placing and managing your own team of autobots on a grid-based battlefield. The game features minigames which can be played in order to earn rewards and improve your team's chances of victory. The game is singleplayer and considered to be quite difficult. 
+
+GAME OBJECTIVES: The objectives of the game are to win battles against rival teams of autobots, earn rewards, and improve your team's chances of victory by playing minigames. 
+
+GAME RULES: The rules of the game are relatively simple. You must place your autobots on a grid-based battlefield in order to battle against rival teams. Each autobot has different abilities and stats, so it is important to strategic about which autobots you place where. The game features minigames which can be played in order to earn rewards and improve your team's chances of victory. The game is singleplayer and considered to be quite difficult. 
+
+GAME LOOP: The basic loop of the game goes like this: 1. You start each level by placing your autobots on the grid-based battlefield. 2. Once all autobots are placed, the battle will start automatically. 3. During the battle, you will need to manage your autobots and use their abilities strategically in order to defeat the rival team. 4. If you are successful in defeating the rival team, you will proceed to the next level where you will repeat this process. 5Make sure to keep an eye on your health bar as well! If it reaches zero, it's Game Over. 5. If you lose a battle, you will have the option to retry or quit the game altogether.

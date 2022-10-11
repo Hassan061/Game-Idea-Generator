@@ -1,0 +1,15 @@
+TOP LEVEL GENRE: Puzzle
+GENRE: Base Building
+SUB GENRE: Beat 'em up
+VISUALS: Third Person
+THEME 1: Fantasy
+THEME 2: Mythology
+FEATURES: Turn-Based
+PLAYERS: Multiplayer
+ASSESSMENT: Epic
+
+==========
+
+The Mythology Game 
+
+GAME OVERVIEW: The Mythology Game is a turn-based multiplayer puzzle game with a base building subgenre and beat 'em up gameplay. In the game, players will take on the role of characters from various mythologies and attempt to outsmart and defeat their opponents using strategy and wit. The game environment will be based on various mythical settings, and the game loop will involve players taking turns to build their bases, train their troops, and battle their opponents. Characters will be varied and unique, each with their own abilities and strengths. The game's unique selling points include its turn-based gameplay, fantasy setting, and mythological themes.

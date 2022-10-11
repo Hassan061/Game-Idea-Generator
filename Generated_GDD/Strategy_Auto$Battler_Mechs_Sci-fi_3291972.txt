@@ -1,0 +1,25 @@
+TOP LEVEL GENRE: Strategy
+GENRE: Auto Battler
+SUB GENRE: Open World Survival Craft
+VISUALS: Top-Down
+THEME 1: Mechs
+THEME 2: Sci-fi
+FEATURES: Building
+PLAYERS: Multiplayer
+ASSESSMENT: Short Gameplay
+
+==========
+
+MECH Raptor: Survival Craft 
+
+GAME OVERVIEW: In MECH Raptor: Survival Craft, players take on the role of stranded survivors who must scavenge materials, build shelter, and craft mechs to survive in an open world full of hostile alien lifeforms. The game features a unique mix of strategy, building, and mech combat gameplay, allowing players to customise their mechs to suit their playstyle. With a vibrant visual style and a focus on player-driven stories, MECH Raptor: Survival Craft promises an immersive and exciting experience for all players. 
+
+GAME OBJECTIVES: The primary objective of MECH Raptor: Survival Craft is to simply survive for as long as possible in the hostile open world. To do this, players must scavenge materials to build shelter and craft mechs to protect themselves from the dangers of the world. In addition, players can choose to pursue optional objectives such as rescuing other survivors, destroying alien hives, or uncovering the game's mysteries. 
+
+GAME RULES: MECH Raptor: Survival Craft is played in a persistent open world environment. Players are free to explore the world and take on objectives at their own pace. However, they must be mindful of their resources as they will need to scavenge food and water to stay alive, and collect materials to craft shelter and mechs. In addition, players must also beware of the hostile alien lifeforms that wander the world, as they can quickly overwhelm unprepared survivors. 
+
+GAME LOOP: The core loop of MECH Raptor: Survival Craft revolves around managing one's resources and carefully planning each move in order to survive for as long as possible. Players will need to scavenge materials in order to build shelter and craft mechs, which will in turn allow them to better defend themselves against the dangers of the world. As players progress, they will unlock new recipes and blueprints which will allow them to craft more advanced items and structures. In addition, players can choose to pursue optional objectives such as rescuing other survivors or destroying alien hives, which will provide rewards that can be used to further improve one's chances of survival. 
+
+GAME ENVIRONMENT: MECH Raptor: Survival Craft takes place on a hostile alien planet that is teeming with deadly creatures. The environment is varied, with players starting in a lush forest biome before venturing out into other areas such as deserts, mountains, swamps, and more. In addition to the dangers posed by the wildlife, players must also be careful of environmental hazards such as diseases, poisonous plants, and extreme weather conditions. Finding shelter and crafting the right gear will be essential for survival in this hostile world. 
+
+CHARACTERS: Players take on the role of survivors who have been stranded on a hostile alien planet. They must use their wits and whatever resources they can find in order to survive against the many dangers that wander the planet. In addition to managing their own survival, players can also choose to rescue other survivors that they encounter during their travels. As players progress through the game, they will unlock new abilities and blueprints which will help them survive in this hostile world.

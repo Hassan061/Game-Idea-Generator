@@ -1,0 +1,21 @@
+TOP LEVEL GENRE: Action
+GENRE: Shooter
+SUB GENRE: Time Management
+VISUALS: 2D
+THEME 1: Robots
+THEME 2: Demons
+FEATURES: Class-Based
+PLAYERS: Single player
+ASSESSMENT: Competitive
+
+==========
+
+Robot Demons: The Video Game 
+
+GAME OVERVIEW: In Robot Demons, the player takes on the role of a demon-hunting robot who must use their time management skills to defeat as many demons as possible. The game is set in a futuristic world where demons have begun to overrun the planet, and it is up to the player to put a stop to their reign of terror. 
+
+GAME OBJECTIVES: The objective of Robot Demons is to defeat as many demons as possible within the time limit. The player will be graded on their performance at the end of each round, and the goal is to attain a high score. 
+
+GAME RULES: The player will use a variety of weapons to defeat the demons, and each weapon has a different effect. The player must learn to use these weapons effectively in order to progress through the game. In addition, the player must manage their time wisely in order to defeat as many demons as possible. 
+
+GAME LOOP: The game loop for Robot Demons consists of four main phases: planning, action, resolution, and debriefing. The player will spend the planning phase deciding which weapons to use and how to best utilize them against the demons. During the action phase, the player will engage in combat with the demons. The resolution phase will determine whether the player was successful in defeating the demons and how much damage was taken. Finally, during the debriefing phase, the player will receive feedback on their performance and be given tips on how to improve their strategy for future rounds.

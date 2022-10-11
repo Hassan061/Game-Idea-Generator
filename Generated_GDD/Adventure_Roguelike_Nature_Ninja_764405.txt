@@ -1,0 +1,15 @@
+TOP LEVEL GENRE: Adventure
+GENRE: Roguelike
+SUB GENRE: Beat 'em up
+VISUALS: 2D
+THEME 1: Nature
+THEME 2: Ninja
+FEATURES: Turn-Based
+PLAYERS: Multiplayer
+ASSESSMENT: Epic
+
+==========
+
+Bushido Blade: The Way of the Warrior 
+
+GAME OVERVIEW: You are a young ninja in training, learning the ways of the blade and the way of the bushido code. Game objectives include completing various training exercises, becoming adept at stealth and combat, and ultimately proving your worth as a ninja warrior. Game rules are based on the bushido code of honor, respect, and discipline. The game loop consists of completing missions assigned by your sensei, returning to base to train and heal between missions, and being sent out on new missions as you progress. The game environment is set in a feudal Japanese village, with characters based on historical ninjas. Unique selling points include the authentic feel of the game environment and the focus on stealth and precision combat.

@@ -1,0 +1,21 @@
+TOP LEVEL GENRE: Casual
+GENRE: Action-Adventure
+SUB GENRE: Traditional Roguelike
+VISUALS: First-Person
+THEME 1: Cute
+THEME 2: Nature
+FEATURES: Team-Based
+PLAYERS: Multiplayer
+ASSESSMENT: Addictive
+
+==========
+
+Weaving Time 
+
+GAME OVERVIEW: Weaving Time is a multiplayer action-adventure game with a traditional roguelike twist. Players team up and battle their way through procedurally generated levels, collecting items and defeating enemies to progress. The catch is that every time a player dies, they must restart from the beginning, but with the knowledge and experience they gained in their previous playthroughs. The game is cute, challenging, and addictive, with a unique yarn-based aesthetic. 
+
+GAME OBJECTIVES: - team up with other players and battle through procedurally generated levels - collect items and defeat enemies to progress - every time a player dies, they must restart from the beginning, but with the knowledge and experience they gained in their previous playthroughs 
+
+GAME RULES: - players must team up to progress through the game - players can die and restart from the beginning, but will retain knowledge and experience from previous playthroughs - players must collect items and defeat enemies to progress 
+
+GAME LOOP: Weaving Time is a continuous loop game. Players team up and battle their way through procedurally generated levels, collecting items and defeating enemies to progress. The catch is that every time a player dies, they must restart from the beginning, but with the knowledge and experience they gained in their previous playthroughs. This gives players a unique incentive to keep playing – even if they die, they are making progress towards eventual victory.

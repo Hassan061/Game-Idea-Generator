@@ -1,0 +1,15 @@
+TOP LEVEL GENRE: Strategy
+GENRE: Exploration
+SUB GENRE: Arena Shooter
+VISUALS: 2D
+THEME 1: Mythology
+THEME 2: Tactical
+FEATURES: Hack and Slash
+PLAYERS: Single player
+ASSESSMENT: Addictive
+
+==========
+
+Mystra's Wrath 
+
+GAME OVERVIEW: In Mystra's Wrath, players take on the role of a demigod seeking vengeance against the goddess who wronged them. The game is set in a mythological world where gods and mortals clash in an epic struggle for supremacy. The game loop consists of exploration, combat, and platforming elements as players hack and slash their way through hordes of enemies to reach their objective. Mystra's Wrath features unique visuals and a fast-paced combat system that will keep players engaged for hours on end.

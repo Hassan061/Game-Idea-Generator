@@ -1,0 +1,15 @@
+TOP LEVEL GENRE: RPG
+GENRE: Party-Based RPG
+SUB GENRE: Hero Shooter
+VISUALS: 3D
+THEME 1: Cinematic
+THEME 2: Dinosaurs
+FEATURES: Hack and Slash
+PLAYERS: Multiplayer
+ASSESSMENT: Short Gameplay
+
+==========
+
+Dino Dash: A Hero Shooter 
+
+GAME OVERVIEW: Dino Dash is a multiplayer party game where players take control of dinosaurs and compete in a series of cinematic races and challenges. The objective of the game is to be the first to cross the finish line, collect the most coins, or complete the objectives of the given task. The game loop consists of players completing races and challenges, earning coins, and spending those coins on upgrades and new dinosaurs. The game environment is set in a prehistoric world populated by dinosaurs. The characters are all dinosaurs, each with their own unique abilities and stats. The unique selling points of this game are its hack and slash gameplay, its party-based multiplayer, and its visually stunning 3D graphics.

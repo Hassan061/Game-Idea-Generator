@@ -1,0 +1,25 @@
+TOP LEVEL GENRE: Action
+GENRE: Party-Based RPG
+SUB GENRE: Beat 'em up
+VISUALS: Top-Down
+THEME 1: Ninja
+THEME 2: Mythology
+FEATURES: Building
+PLAYERS: Multiplayer
+ASSESSMENT: Addictive
+
+==========
+
+NINJA MYTHOLOGY 
+
+GAME OVERVIEW: You and up to three friends take on the roles of ninjas in an epic quest to vanquish evil and save the world! Travel through mystical lands, using your ninja skills to battle fierce monsters and overcome deadly traps. Collect powerful weapons and items to help you on your journey, and level up your ninjas to make them even stronger. Can you defeat the ultimate evil and save the world? 
+
+GAME OBJECTIVES: The objective of the game is to defeat all the enemies and bosses, and ultimately save the world. 
+
+GAME RULES: -Each player controls one ninja character. -Characters can use a variety of weapons and items, which are found throughout the game world. -Characters level up and become stronger as they progress through the game. -The game is played through a series of levels, each with its own enemies, bosses, and puzzles to overcome. 
+
+GAME LOOP: The game loop consists of exploring the game world, fighting enemies, solving puzzles, and collecting items. Bosses are encountered at the end of each major area, and defeating them is required to progress. After defeating all the bosses, the player(s) will save the world. 
+
+GAME ENVIRONMENT: The game environment consists of mystical lands inspired by Japanese mythology. Each area has its own unique theme, enemies, and puzzles. 
+
+CHARACTERS: There are four player-controlled characters in the game, each with their own unique abilities: -The Samurai: A powerful fighter who uses a variety of melee weapons. -The Ronin: A nimble fighter who uses dual knives. -The Monk: A powerful spellcaster who uses a staff. -The Ninja: A stealthy fighter who uses throwing stars.

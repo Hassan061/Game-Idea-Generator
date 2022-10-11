@@ -1,0 +1,23 @@
+TOP LEVEL GENRE: Puzzle
+GENRE: Auto Battler
+SUB GENRE: Hack and Slash
+VISUALS: Top-Down
+THEME 1: Nature
+THEME 2: Agriculture
+FEATURES: Building
+PLAYERS: Multiplayer
+ASSESSMENT: Epic
+
+==========
+
+The title of the game is Nature's Challenge. 
+
+GAME OVERVIEW: Nature's Challenge is a unique puzzle game that takes place in a natural setting. The objective of the game is to complete various puzzles by using the elements of nature to solve them. The game features a variety of different environments, including forests, deserts, and mountains. There are also a variety of different characters that the player can interact with, including animals and humans. The game's unique selling points include its intricate puzzles and its beautiful visuals. 
+
+GAME OBJECTIVES: The objectives of Nature's Challenge are to complete all of the puzzles in each environment and to earn a high score. 
+
+GAME RULES: The rules of Nature's Challenge are simple: use the elements of nature to solve the puzzles. There are no time limits or lives, so the player can take their time and explore the environment. However, if the player gets stuck on a puzzle, they can use a hint by spending one of their three stars. Stars are earned by completing puzzles, and they can also be bought with real money. 
+
+GAME LOOP: The game loop of Nature's Challenge is as follows: the player enters an environment, completes puzzles to earn stars, uses stars to buy hints if needed, and then moves on to the next environment. The game is over when the player has completed all of the environments. 
+
+GAME ENVIRONMENT: Nature's Challenge takes place in a variety of different environments, including forests, deserts, and mountains. Each environment is filled with puzzles that the player must solve. In addition to the puzzle elements, each environment also contains a few bonus items that the player can collect for extra points.

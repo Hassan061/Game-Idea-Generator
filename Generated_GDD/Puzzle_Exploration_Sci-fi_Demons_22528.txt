@@ -1,0 +1,15 @@
+TOP LEVEL GENRE: Puzzle
+GENRE: Exploration
+SUB GENRE: Real Time Tactics
+VISUALS: 2D
+THEME 1: Sci-fi
+THEME 2: Demons
+FEATURES: Open World
+PLAYERS: Single player
+ASSESSMENT: Competitive
+
+==========
+
+Dreadnought 
+
+GAME OVERVIEW: Dreadnought is a strategy game in which players must battle it out in space using a variety of different ships, each with their own unique strengths and weaknesses. The objective of the game is to be the last player standing, and the game loop revolves around players fighting one another in real-time combat. The game environment is set in a dark and foreboding space, and the characters are a mix of human and demonic forces. The game's unique selling points include its focus on strategy and its dark and atmospheric setting.

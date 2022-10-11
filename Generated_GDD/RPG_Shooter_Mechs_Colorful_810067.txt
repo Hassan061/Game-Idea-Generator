@@ -1,0 +1,23 @@
+TOP LEVEL GENRE: RPG
+GENRE: Shooter
+SUB GENRE: Shoot 'Em Up
+VISUALS: Top-Down
+THEME 1: Mechs
+THEME 2: Colorful
+FEATURES: Minigames
+PLAYERS: Single player
+ASSESSMENT: Fast-Paced
+
+==========
+
+MECHAGEDDON 
+
+GAME OVERVIEW: In Mechageddon, you take control of a powerful mech as you battle your way through hordes of enemies. Use your mighty mech to devastating effect as you shoot, smash and stomp your way to victory. With colorful visuals and fast-paced action, Mechageddon is sure to please gamers of all ages. 
+
+GAME OBJECTIVES: The objective of Mechageddon is to defeat all of the enemies in each level and progress to the next. Along the way, you can collect power-ups to help you in your battle. 
+
+GAME RULES: In Mechageddon, you use your mech's weapons to destroy enemies. You can also use your mech's stomp attack to crush enemies beneath your feet. Be careful, though, as enemy fire can damage your mech. When your mech's health reaches zero, it's game over. 
+
+GAME LOOP: The game loop of Mechageddon consists of shooting and stomping your way through hordes of enemies. Between levels, you can upgrade your mech with new weapons and abilities. When you reach the final level, you'll face off against the ultimate enemy boss. Can you defeat it and save the day? 
+
+GAME ENVIRONMENT: The game environment of Mechageddon is colorful and fast-paced. You'll battle through hordes of enemies in a variety of locations, from city streets to outer space. Be prepared for anything as you fight your way to victory! CHARACTERS:THe player takes control of a powerful mech against hordes of faceless enemies

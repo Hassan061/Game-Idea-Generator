@@ -1,0 +1,15 @@
+TOP LEVEL GENRE: Puzzle
+GENRE: Fighting
+SUB GENRE: Tactical
+VISUALS: First-Person
+THEME 1: Magic
+THEME 2: Sci-fi
+FEATURES: Hack and Slash
+PLAYERS: Multiplayer
+ASSESSMENT: Beautiful
+
+==========
+
+The title of the game is "EARTH". 
+
+GAME OVERVIEW: EARTH is a puzzle fighting game with a tactical first-person perspective. The objective of the game is to hack and slash your way through opponents using magic and sci-fi abilities. The game loop is simple: win fights to progress. The game environment is set on a post-apocalyptic earth, where characters must compete in a tournament to save the planet. The unique selling points of the game are its combination of genres, visuals, and themes.

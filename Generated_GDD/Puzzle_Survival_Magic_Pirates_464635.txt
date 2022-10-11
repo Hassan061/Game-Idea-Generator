@@ -1,0 +1,13 @@
+TOP LEVEL GENRE: Puzzle
+GENRE: Survival
+SUB GENRE: Beat 'em up
+VISUALS: 2D
+THEME 1: Magic
+THEME 2: Pirates
+FEATURES: Building
+PLAYERS: Single player
+ASSESSMENT: Beautiful
+
+==========
+
+The title of the game is "Pirate Adventure". The objective of the game is to find all the treasure on the island and return it to your ship. The game is played in a 2D environment and features beautiful visuals. The player controls a character who must use their magic to defeat pirates and other obstacles in their way.

@@ -1,0 +1,25 @@
+TOP LEVEL GENRE: Casual
+GENRE: Point & Click
+SUB GENRE: Metroidvania
+VISUALS: Top-Down
+THEME 1: Colorful
+THEME 2: Futuristic
+FEATURES: Class-Based
+PLAYERS: Multiplayer
+ASSESSMENT: Short Gameplay
+
+==========
+
+Casual Point & Click Metroidvania 
+
+GAME OVERVIEW: In this game, players take control of a character in a colorful, futuristic world. They must navigate through a series of obstacles and puzzles to reach the end goal. The game features class-based gameplay, allowing players to choose from a variety of different character classes with unique abilities. The game is designed for multiplayer, with up to four players able to play together. 
+
+GAME OBJECTIVES: The primary objective of the game is to reach the end goal by completing all the obstacles and puzzles. Players can also earn points by defeating enemies and discovering secrets. 
+
+GAME RULES: Players must navigate through a series of obstacles and puzzles to reach the end goal. They can earn points by defeating enemies and discovering secrets. The game features class-based gameplay, allowing players to choose from a variety of different character classes with unique abilities. The game is designed for multiplayer, with up to four players able to play together. 
+
+GAME LOOP: The game loop consists of the player navigating through the environment, solving puzzles, and defeating enemies. When the player reaches the end goal, they win the game. 
+
+GAME ENVIRONMENT: The environment is a colorful, futuristic world filled with obstacles and puzzles. 
+
+CHARACTERS: The player can choose from a variety of different character classes, each with their own unique abilities.

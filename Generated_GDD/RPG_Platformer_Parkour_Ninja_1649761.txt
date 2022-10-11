@@ -1,0 +1,21 @@
+TOP LEVEL GENRE: RPG
+GENRE: Platformer
+SUB GENRE: Metroidvania
+VISUALS: Top-Down
+THEME 1: Parkour
+THEME 2: Ninja
+FEATURES: Resource Management
+PLAYERS: Single player
+ASSESSMENT: Beautiful
+
+==========
+
+NINJA PARKOUR 
+
+GAME OVERVIEW: In Ninja Parkour, you take control of a nimble and acrobatic ninja hero as they parkour their way through a strucken city filled with treacherous enemies. Utilize your speed and agility to dash and climb your way to safety, collecting precious resources along the way to help you survive. With beautiful top-down visuals, Ninja Parkour is an intense and thrilling platforming adventure. 
+
+GAME OBJECTIVES: The primary objective of Ninja Parkour is to reach the end of each level alive, avoiding or defeating all enemies in your way. Collecting resources along the way will be essential for survival, as you'll need to use them to upgrade your character's skills and abilities. Can you parkour your way to safety and become the ultimate ninja master? 
+
+GAME RULES: - Players will control their ninja character with the arrow keys or WASD keys, maneuvering them through each level. - The goal is to reach the end of the level alive, while avoiding or defeating all enemies in your way. - Collecting resources along the way will be essential for survival, as you'll need them to upgrade your character's skills and abilities. - Some levels will require specific parkour skills to progress, so be sure to upgrade your character accordingly. 
+
+GAME LOOP: The game loop of Ninja Parkour consists of the player traversing through each level, avoiding or defeating enemies along the way. Collecting resources will be essential in order to upgrade their character and progress through the game. Each level becomes progressively more difficult, testing the player's ninja skills to the limit. Can you parkour your way to victory and become the ultimate ninja master?

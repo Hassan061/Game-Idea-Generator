@@ -1,0 +1,19 @@
+TOP LEVEL GENRE: Strategy
+GENRE: Survival
+SUB GENRE: Metroidvania
+VISUALS: First-Person
+THEME 1: Sci-fi
+THEME 2: Tactical
+FEATURES: Hack and Slash
+PLAYERS: Multiplayer
+ASSESSMENT: Relaxing
+
+==========
+
+GALAXYQUEST 
+
+GAME OVERVIEW: You and up to three friends take on the roles of intrepid space explorers, who must work together to survive a dangerous alien environment and find a way back home. Each player must use their unique skills and abilities to overcome obstacles and enemies, and ultimately find a way off the planet alive. 
+
+GAME OBJECTIVES: 1. Work together as a team to survive the hostile environment and find a way back home. 2. Use your individual skills and abilities to overcome obstacles and enemies. 3. Find a way off the planet alive within the time limit. 
+
+GAME RULES: 1. Work together cooperatively to complete the objectives. 2. Only one player can be in control of the character at any time. 3. Players must take turns in controlling the character, with the order decided by whichever player last died or completed an objective. 4. If a player dies, they will respawn at the last checkpoint with all their progress and inventory lost. 5

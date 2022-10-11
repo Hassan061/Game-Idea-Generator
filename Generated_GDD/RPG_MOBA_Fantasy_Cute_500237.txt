@@ -1,0 +1,13 @@
+TOP LEVEL GENRE: RPG
+GENRE: MOBA
+SUB GENRE: Time Management
+VISUALS: Third Person
+THEME 1: Fantasy
+THEME 2: Cute
+FEATURES: Team-Based
+PLAYERS: Multiplayer
+ASSESSMENT: Addictive
+
+==========
+
+The objective of the game is to lead your team to victory by managing your time and resources wisely while defeating the enemy team. The game is set in a fantasy environment with cute characters. The unique selling points of the game are its team-based gameplay and its addictive nature.

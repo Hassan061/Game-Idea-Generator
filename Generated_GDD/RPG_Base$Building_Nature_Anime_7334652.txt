@@ -1,0 +1,13 @@
+TOP LEVEL GENRE: RPG
+GENRE: Base Building
+SUB GENRE: Metroidvania
+VISUALS: 3D
+THEME 1: Nature
+THEME 2: Anime
+FEATURES: Building
+PLAYERS: Single player
+ASSESSMENT: Addictive
+
+==========
+
+NaturaVania GENRE: Base Building, Metroidvania, Anime, 3D OVERVIEW: NaturaVania is a base building game with Metroidvania and Anime elements set in a 3D environment. The objective of the game is to build your base and expand it while defeating enemies to unlock new areas. The game loop involves building your base, fighting enemies, and collecting resources. Unique selling points include the base building mechanic, anime-inspired visuals, and 3D environment.

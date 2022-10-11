@@ -1,0 +1,21 @@
+TOP LEVEL GENRE: Strategy
+GENRE: Roguelike
+SUB GENRE: Beat 'em up
+VISUALS: 2D
+THEME 1: Economy
+THEME 2: Agriculture
+FEATURES: Building
+PLAYERS: Single player
+ASSESSMENT: Emotional
+
+==========
+
+Productivity 
+
+GAME OVERVIEW: A worker placement game where players compete to build the most efficient farm. 
+
+GAME OBJECTIVES: Make the most money by the end of the game. 
+
+GAME RULES: On your turn, you may take one of three actions: Place a worker on an available space on the board. Activate a worker to carry out the associated action. Move a worker from one space to another adjacent space. Whenever you activate a worker, you may gain resources, build structures, or sell goods. The game ends when all players have exhausted their workers, and the player with the most money is declared the winner. 
+
+GAME LOOP: Phase 1: Action Selection On your turn, you must choose one of three actions: Place a worker, Activate a worker, or Move a worker. Phase 2: Resource Collection / Building construction If you chose to activate a worker, you will gain resources or construct buildings depending on which space you activated them on. Phase 3: Selling goods If you chose to place a worker on the marketplace space, you may sell goods at market prices. The more workers you have in the marketplace, the more goods you may sell. End of Game Phase: Determine Winner When all players have exhausted their workers, the game ends and the player with the most money is declared the winner.

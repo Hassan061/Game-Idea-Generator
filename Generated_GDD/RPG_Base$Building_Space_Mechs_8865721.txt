@@ -1,0 +1,27 @@
+TOP LEVEL GENRE: RPG
+GENRE: Base Building
+SUB GENRE: Hack and Slash
+VISUALS: Top-Down
+THEME 1: Space
+THEME 2: Mechs
+FEATURES: Class-Based
+PLAYERS: Multiplayer
+ASSESSMENT: Fast-Paced
+
+==========
+
+Intergalactic Warlord: Conquest of the Universe 
+
+GAME OVERVIEW: In Intergalactic Warlord: Conquest of the Universe, players take on the role of powerful space-faring generals, leading their forces in a fight for supremacy across the stars. With a variety of classes to choose from, each with their own unique abilities and playstyles, players must strategize and adapt to find victory in this fast-paced and competitive game. 
+
+GAME OBJECTIVES: The objective of Intergalactic Warlord: Conquest of the Universe is to be the last general standing, by whatever means necessary. Players will achieve this by expanding their empires by colonizing planets, building up their forces, and crushing their enemies. 
+
+GAME RULES: Players will take turns moving their units around the map, fighting enemy forces and capturing objectives. The game is played on a grid-based map, with each square representing a different planet or location. Players will start with a base on one planet, and must expand from there by sending out units to colonize new planets or invade enemy territory. Units can be moved around the map using action points, and can perform a variety of actions such as attacking, defending, or using special abilities. 
+
+GAME LOOP: The game loop of Intergalactic Warlord: Conquest of the Universe is simple yet addicting – conquer your enemies and become the ultimate space-faring general! Players will take turns moving their units around the map, engaging in battles with enemy forces and capturing objectives. The last player standing will be declared the winner. 
+
+GAME ENVIRONMENT: The game environment of Intergalactic Warlord: Conquest of the Universe is a vast and dangerous galaxy, filled with enemy forces that want nothing more than to see you defeated. Explore different star systems, colonize new worlds, and build up your empire to ensure your victory. 
+
+CHARACTERS: Players will take on the role of one of several space-faring generals, each with their own unique abilities and playstyles. Choose from a variety of classes such as the versatile Commander, the powerful Dreadnought, or the sneaky Spy – each with their own strengths and weaknesses. Use your units wisely to create synergies and combos that will give you an edge over your opponents. 
+
+UNIQUE SELLING POINTS:  Intergalactic Warlord: Conquest of the Universe features unique class-based gameplay that encourages strategic thinking and adaptation. With a variety of classes to choose from, each with their own abilities and playstyles, players must strategize and adapt to find victory in this fast-paced game. In addition, the game's grid-based map system adds an extra layer of strategy as players must carefully plan their moves in order to gain an advantage over their enemies.

@@ -1,0 +1,23 @@
+TOP LEVEL GENRE: Strategy
+GENRE: Fighting
+SUB GENRE: Shoot 'Em Up
+VISUALS: First-Person
+THEME 1: Robots
+THEME 2: Tactical
+FEATURES: Building
+PLAYERS: Multiplayer
+ASSESSMENT: Relaxing
+
+==========
+
+Rise of the Bots 
+
+GAME OVERVIEW: In Rise of the Robots, players take control of a team of fighting robots in a fast-paced, tactical shooter. The game features a deep customization system for players to create their perfect team of robots, as well as a variety of game modes to keep players coming back for more. 
+
+GAME OBJECTIVES: The objective of the game is to win matches by defeating all of the enemy team's robots. 
+
+GAME RULES: Each match is played out in a arena, where two teams of robots battle it out. There are a variety of different game modes to choose from, each with its own set of rules. However, the basic goal is always to defeat all of the enemy team's robots. Players can use a variety of different weapons and abilities to achieve this. 
+
+GAME LOOP: The game loop for Rise of the Bots is quite simple: Choose a game mode, customize your team, and then battle it out against other players online. There is also a singleplayer mode where players can face off against AI-controlled teams. Players can earn experience and unlock new customization options as they play. 
+
+GAME ENVIRONMENT: The game environment for Rise of the Bots is set in a variety of different arenas, each with their own unique layout and hazards. From corporate office buildings to abandoned factories, there is plenty of variation for players to explore. WHO ARE THE CHARACTERS?: The characters in Rise of the Bots are the player-controlled robots themselves. There is a wide variety of different robots to choose from, each with their own unique stats, weapons, and abilities. Players can mix and match these different parts to create their perfect team.

@@ -1,0 +1,23 @@
+TOP LEVEL GENRE: Casual
+GENRE: Action-Adventure
+SUB GENRE: Grand Strategy
+VISUALS: 3D
+THEME 1: Parkour
+THEME 2: Cute
+FEATURES: Minigames
+PLAYERS: Single player
+ASSESSMENT: Competitive
+
+==========
+
+Cute Parkour: A Grand Strategy Game 
+
+GAME OVERVIEW: In Cute Parkour, players take on the role of a parkour athlete competing in a series of challenges across a variety of environments. The game features multiple game modes, including a single player campaign, multiplayer challenges, and an open world exploration mode. The objective of the game is to complete challenges and earn points by completing objectives within the time limit. The game features a variety of cute animal characters to choose from, and players can earn new outfits and equipment as they progress. 
+
+GAME OBJECTIVES: The objective of Cute Parkour is to earn points by completing challenges within the time limit. Players can earn points by completing objectives such as reaching the finish line first, collecting coins, and performing tricks. The game features a variety of environments, including city streets, rooftops, and parks. 
+
+GAME RULES: Players must complete challenges within the time limit to earn points. Points are deducted for failing to complete objectives or for running out of time. The game ends when the player runs out of points. 
+
+GAME LOOP: The game loop for Cute Parkour consists of the player completing challenges in order to earn points. Once the player has earned enough points, they will unlock new challenges and environments. If the player fails to complete a challenge or runs out of time, they will lose points and eventually be forced to restart the game from the beginning. 
+
+GAME ENVIRONMENT: Cute Parkour takes place in a variety of locations across a city landscape. Environments include city streets, rooftops, and parks. Characters: playable animal characters

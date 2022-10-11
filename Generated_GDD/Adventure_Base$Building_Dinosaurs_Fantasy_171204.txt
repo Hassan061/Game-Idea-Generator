@@ -1,0 +1,27 @@
+TOP LEVEL GENRE: Adventure
+GENRE: Base Building
+SUB GENRE: Trading Card Game
+VISUALS: Top-Down
+THEME 1: Dinosaurs
+THEME 2: Fantasy
+FEATURES: Open World
+PLAYERS: Multiplayer
+ASSESSMENT: Epic
+
+==========
+
+Dino Cards 
+
+GAME OVERVIEW: A trading card game set in a fantasy world populated by dinosaurs. Players compete against each other to build the strongest deck possible, using a combination of creature cards, spell cards, and weapons cards. The game is played in a top-down perspective, and features an open world environment for players to explore. 
+
+GAME OBJECTIVES: The primary objective of the game is to build the strongest deck possible and defeat other players. Players can do this by acquiring new cards, either through trading with other players or by purchasing booster packs. The game also features an element of exploration, as players can journey through the open world environment to discover new areas and encounter different types of dinosaurs. 
+
+GAME RULES: The basic rules of the game are simple: each player starts with a deck of 30 cards, and they draw one card at a time from their deck and play it on the table in front of them. Cards can be played as creatures, spell effects, or weapons. Creatures can attack and defend; spell effects can do things like healing or providing bonuses; and weapons can be used to increase the power of creatures or damage opponents' creatures. Players can also play certain kinds of cards that allow them to manipulate the rules of the game in various ways. 
+
+GAME LOOP: The game loop is simple: each player takes turns playing cards from their hand, until one player either runs out of cards or has all their creatures defeated. If a player has no creatures remaining, they lose the game. 
+
+GAME ENVIRONMENT: The game takes place in a fantasy world populated by dinosaurs. This world is represented by a board on which the players' decks are placed. The board itself is not necessary for gameplay, but it provides a visual aid for players to keep track of their progress. 
+
+CHARACTERS: There are no specific characters in the game, as each player creates their own deck of cards featuring various dinosaurs. However, there are certain kinds of dinosaurs that appear more frequently than others, such as the Tyrannosaurus Rex or the Velociraptor. These dinosaurs have unique abilities that make them more powerful than other kinds of dinosaurs. 
+
+UNIQUE SELLING POINTS:  The unique selling points of this game are its fantasy setting populated by dinosaurs, its simple yet deep gameplay mechanics, and its collectible nature (booster packs allow players to expand their collection).

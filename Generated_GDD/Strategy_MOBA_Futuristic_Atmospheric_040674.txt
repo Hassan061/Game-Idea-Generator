@@ -1,0 +1,27 @@
+TOP LEVEL GENRE: Strategy
+GENRE: MOBA
+SUB GENRE: Hero Shooter
+VISUALS: 2D
+THEME 1: Futuristic
+THEME 2: Atmospheric
+FEATURES: Class-Based
+PLAYERS: Multiplayer
+ASSESSMENT: Relaxing
+
+==========
+
+Aurora: The Hero Shooter 
+
+GAME OVERVIEW: Aurora is a class-based multiplayer online battle arena (MOBA) game set in a futuristic, atmospheric world. In the game, players take control of heroes with unique abilities and attempt to achieve various objectives, such as destroying the enemy's main structure, in order to win. The game features a unique art style and is designed to be relaxing and enjoyable to play. 
+
+GAME OBJECTIVES: The objective of Aurora is to destroy the enemy's main structure while defending one's own. In order to do this, players must control heroes with unique abilities and work together as a team to achieve success. The game features multiple game modes, each with its own set of objectives, rules, and maps. 
+
+GAME RULES: The rules of Aurora are simple: destroy the enemy's main structure while defending your own. Players control heroes with unique abilities and must work together as a team in order to win. The game features multiple game modes, each with its own set of objectives and maps. 
+
+GAME LOOP: The Aurora game loop is simple: players choose their hero, join a game, play through the match, and then either win or lose. If a player wins, they will receive rewards such as experience points or in-game currency. If a player loses, they will not receive any rewards. There is no penalty for losing in Aurora. Players can queue up for another match immediately after their previous one has ended. 
+
+GAME ENVIRONMENT: The game environment of Aurora is futuristic and atmospheric. The environment is designed to be relaxing and enjoyable to play in. The game takes place on multiple types of maps, each with its own unique layout and design. 
+
+CHARACTERS: There are many different characters available for players to choose from in Aurora. Each character has their own unique set of abilities that make them viable for different playstyles and strategies. When choosing a character, players must consider the character's role within the team composition as well as their individual strengths and weaknesses. 
+
+UNIQUE SELLING POINTS:  -Aurora features a unique art style that sets it apart from other games in the genre. -The game is designed to be relaxing and enjoyable to play. There is no penalty for losing in Aurora, making it a great choice for players who want to relax and have fun without feeling too much stress. -Aurora offers a variety of different game modes for players to enjoy, each with its own set of objectives and rules. This allows players to try out different gameplay styles and find the mode that best suits their preferences.

@@ -1,0 +1,17 @@
+TOP LEVEL GENRE: Casual
+GENRE: Roguelike
+SUB GENRE: Real Time Tactics
+VISUALS: 3D
+THEME 1: Fantasy
+THEME 2: Mechs
+FEATURES: Open World
+PLAYERS: Single player
+ASSESSMENT: Relaxing
+
+==========
+
+Mecha Fantasy 
+
+GAME OVERVIEW: In Mecha Fantasy, you take control of a giant mech in a fantastical open world environment. Your objective is to explore the world, discover new areas and complete quests. The game loop involves completing quests and exploring the world. The game environment is a detailed and expansive open world with a variety of different biomes. The game features a variety of different mechs to pilot, each with their own unique abilities. The game also features an extensive upgrade system for your mechs. 
+
+UNIQUE SELLING POINTS:  -A detailed and expansive open world environment to explore -A variety of different mechs to pilot, each with their own unique abilities -An extensive upgrade system for your mechs

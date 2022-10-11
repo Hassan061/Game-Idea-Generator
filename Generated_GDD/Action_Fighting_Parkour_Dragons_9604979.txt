@@ -1,0 +1,21 @@
+TOP LEVEL GENRE: Action
+GENRE: Fighting
+SUB GENRE: Time Management
+VISUALS: First-Person
+THEME 1: Parkour
+THEME 2: Dragons
+FEATURES: Class-Based
+PLAYERS: Multiplayer
+ASSESSMENT: Emotional
+
+==========
+
+Dragon Parkour 
+
+GAME OVERVIEW: In Dragon Parkour, players will take on the role of parkour experts who must use their skills to navigate through a dragon-infested city. They will need to be fast and agile to avoid being caught by the dragons, and they will also need to use their wits to solve puzzles and reach new areas. The game will be playable in multiplayer mode, and players will be able to choose from a variety of classes, each with their own unique abilities. 
+
+GAME OBJECTIVES: The primary objective of Dragon Parkour is to reach the end of the level without being caught by the dragons. There are also a number of optional objectives that players can complete for bonus points, such as collecting items or reaching specific areas within the time limit. 
+
+GAME RULES: Players must use their parkour skills to navigate through the level, avoiding any contact with the dragons. If a player is caught by a dragon, they will lose one life. If all lives are lost, the game is over. Players can earn bonus points by completing optional objectives, such as collecting items or reaching specific areas within the time limit. 
+
+GAME LOOP: The game loop of Dragon Parkour consists of repeatedly playing through levels while avoiding contact with dragons and completing optional objectives. Each time a level is completed, the player will earn points which can be used to unlock new levels or purchase upgrades. If all lives are lost, the game is over. Otherwise, the player can continue from where they left off. Characters: The characters in Dragon Parkour are parkour experts who must use their skills to navigate through a dragon-infested city. They will need to be fast and agile to avoid being caught by the dragons, and they will also need to use their wits to solve puzzles and reach new areas. The game will be playable in multiplayer mode, and players will be able to choose from a variety of classes, each with their own unique abilities.

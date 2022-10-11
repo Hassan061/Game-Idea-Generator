@@ -1,0 +1,13 @@
+TOP LEVEL GENRE: RPG
+GENRE: Shooter
+SUB GENRE: Action Roguelike
+VISUALS: Top-Down
+THEME 1: Cute
+THEME 2: Nature
+FEATURES: Combat
+PLAYERS: Multiplayer
+ASSESSMENT: Emotional
+
+==========
+
+Cute Nature Combat is a top-down action roguelike shooter with cute visuals and a nature theme. The objective of the game is to combat other players in a multiplayer environment. The game loop consists of shooting and Dodging bullets while trying to kill the other players. The game environment is set in a nature theme with trees, bushes, and flowers. The characters are animals that have been anthropomorphized. The game's unique selling points are its cute visuals, nature theme, and combat system.

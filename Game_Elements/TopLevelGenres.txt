@@ -1,0 +1,7 @@
+Action
+Adventure
+Casual
+Puzzle
+RPG
+Strategy
+Sport

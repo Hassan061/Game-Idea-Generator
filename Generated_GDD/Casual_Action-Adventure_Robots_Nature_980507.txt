@@ -1,0 +1,23 @@
+TOP LEVEL GENRE: Casual
+GENRE: Action-Adventure
+SUB GENRE: Hero Shooter
+VISUALS: First-Person
+THEME 1: Robots
+THEME 2: Nature
+FEATURES: Minigames
+PLAYERS: Single player
+ASSESSMENT: Epic
+
+==========
+
+Robot Wars: Nature vs Machine 
+
+GAME OVERVIEW: In Robot Wars, you take control of a team of heroic robots who must battle it out against an evil team of rogue robots. The objective is to destroy the enemy's base, while using your own base as a launching point for your attacks. To win, you must use strategy and cunning to outwit your opponent. 
+
+GAME OBJECTIVES: The objective of Robot Wars is to destroy the enemy's base, while protecting your own. To do this, you must use your team of heroic robots to battle against the enemy's team of rogue robots. The game is played in a top-down perspective, and you must use your knowledge of the environment and your team's abilities to create a strategy that will allow you to succeed. 
+
+GAME RULES: The rules of Robot Wars are simple: Destroy the enemy's base, while protecting your own. The game is played in a top-down perspective, and you must use your knowledge of the environment and your team's abilities to create a strategy that will allow you to succeed. In addition, there are a variety of minigames that you can play in order to gain an advantage over your opponent. These minigames includecapture the flag, races, and more. 
+
+GAME LOOP: The game loop of Robot Wars is as follows: You take control of a team of heroic robots who must battle it out against an evil team of rogue robots. The objective is to destroy the enemy's base (located on the other side of the map), while using your own base as a launching point for your attacks. To win, you must use strategy and cunning to outwit your opponent. The game is played in a turn-based format, with each player taking turns making their moves. When one player has destroyed the other player's base, they are declared the winner. 
+
+GAME ENVIRONMENT: The game environment for Robot Wars takes place on a variety of different maps, each with their own unique challenges and hazards. In order to win, you must use your knowledge of the environment and your team's abilities to create a strategy that will allow you to succeed. Characters: There are two teams of characters in Robot Wars - the heroic robots and the rogue robots. Each team has its own unique set of characters with their own individual strengths and weaknesses. As the player, you must choose which team you will control and make use of their strengths in order to win. USPs: The unique selling points for Robot Wars include its detailed strategic gameplay, its large roster of unique characters, and its many different minigames that players can enjoy.

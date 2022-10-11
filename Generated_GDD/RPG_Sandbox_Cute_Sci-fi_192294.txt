@@ -1,0 +1,23 @@
+TOP LEVEL GENRE: RPG
+GENRE: Sandbox
+SUB GENRE: Trading Card Game
+VISUALS: First-Person
+THEME 1: Cute
+THEME 2: Sci-fi
+FEATURES: Minigames
+PLAYERS: Multiplayer
+ASSESSMENT: Competitive
+
+==========
+
+CuddleCraft: The Cuddliest Trading Card Game 
+
+GAME OVERVIEW: CuddleCraft is a cute, sci-fi trading card game that features minigames and competitive multiplayer gameplay. The objective of the game is to collect the cutest and most cuddly creatures in the universe and use them to battle it out with other players. The game is set in a colorful, whimsical world where the player must capture and train creatures known as CuddleCrafts. These CuddleCrafts come in all shapes and sizes, and each has their own unique abilities. In order to win, players must strategically use their CuddleCrafts in battle and defeat all other players. The game features multiple gameplay modes, including a single player campaign mode and a multiplayer mode. 
+
+GAME OBJECTIVES: The objective of the game is to collect the cutest and most cuddly creatures in the universe and use them to battle it out with other players. In order to win, players must strategically use their CuddleCrafts in battle and defeat all other players. 
+
+GAME RULES: The rules of CuddleCraft are simple – players must collect CuddleCrafts and use them to battle it out with other players. Each CuddleCraft has unique abilities, and it is up to the player to choose which ones to use in order to win. There are multiple gameplay modes, each with its own set of rules. 
+
+GAME LOOP: The game loop of CuddleCraft is simple – players collect CuddleCrafts, train them, and then use them to battle it out with other players. The game ends when one player has either won or lost. 
+
+GAME ENVIRONMENT: The game environment of CuddleCraft is cute, colorful, and whimsical. It features a variety of different locations where players can capture and train their CuddleCrafts. WHO ARE THE CHARACTERS? There are numerous characters featured in CuddleCraft, each with their own unique abilities. Some of the more popular characters include: -Cuddles: A small, cuddly creature that is very weak in battle but extremely adorable. -Fluffy: A large, fluffy creature that is very strong in battle but not very agile. -Sparkles: A small, fast creature that is very agile but not very strong. What are its UNIQUE SELLING POINTS? Some of the unique selling points of CuddleCraft include: -The competitive multiplayer gameplay that pits players against each other in thrilling battles. -The large variety of different CuddleCrafts available for players to collect, train, and use in battle. -The adorable art style and whimsical world that will appeal to gamers of all ages.

@@ -1,0 +1,21 @@
+TOP LEVEL GENRE: Adventure
+GENRE: Party-Based RPG
+SUB GENRE: Time Management
+VISUALS: First-Person
+THEME 1: Magic
+THEME 2: Mechs
+FEATURES: Turn-Based
+PLAYERS: Multiplayer
+ASSESSMENT: Addictive
+
+==========
+
+Mech Adventure: A Party-Based RPG 
+
+GAME OVERVIEW: Mech Adventure is a turn-based, party-based RPG in which players take on the role of magical mech pilots. The objective of the game is to complete various quests and challenges, while managing your time and resources. The game features a unique magic and mechs theme, as well as multiplayer support. 
+
+GAME OBJECTIVES: The primary objective of Mech Adventure is to complete various quests and challenges. These can be done solo or with friends, and range from simple fetch quests to more complex combat encounters. In addition to completing these objectives, players will also need to manage their time and resources effectively in order to progress through the game. 
+
+GAME RULES: Mech Adventure is a turn-based game, meaning that each player takes their turn in order. On a player's turn, they can move their mech, perform actions such as attacking or using abilities, and interact with the environment. The game also has a number of unique mechanics, such as the use of magical energy to power up mechs, and the ability to upgrade mechs with new parts and equipment. 
+
+GAME LOOP: The game loop of Mech Adventure consists of four basic phases: exploration, combat, downtime, and planning. In the exploration phase, players will move their mechs around the environment, interacting with NPCs and objects as they go. This will usually result in them taking on quests or picking up items. In combat phase, players will engage in battle with enemies, using their mechs' abilities to defeat them. After combat has ended, players will have some downtime in which they can rest and heal their mechs, as well as plan for future adventures. Finally, in the planning phase player will select their objectives for the next session, choose what equipment they will take with them, and prepare for the next round of play.

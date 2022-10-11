@@ -1,0 +1,27 @@
+<<UUID>>
+Think like a professional Game Designer. Brainstorm an extremely long, complete and detailed GAME DESIGN DOCUMENT for a game with the following appeal terms:
+
+TOP LEVEL GENRE: <<TOP LEVEL GENRE>>
+GENRE: <<GENRE>>
+SUB GENRE: <<SUB GENRE>>
+VISUALS: <<VISUALS>>
+THEME 1: <<THEME1>>
+THEME 2: <<THEME2>>
+FEATURES: <<FEATURES>>
+PLAYERS: <<PLAYERS>>
+ASSESSMENT: <<ASSESSMENT>>
+
+
+Brainstorm a comprehensive and detailed GAME DESIGN DOCUMENT. Answer the following questions about it:
+
+What is its TITLE?
+What is the GAME OVERVIEW?
+What are the GAME OBJECTIVES?
+What are the GAME RULES?
+What is the  GAME LOOP?
+What is the GAME ENVIRONMENT?
+Who are the CHARACTERS?
+What are its UNIQUE SELLING POINTS?
+
+TITLE:
+

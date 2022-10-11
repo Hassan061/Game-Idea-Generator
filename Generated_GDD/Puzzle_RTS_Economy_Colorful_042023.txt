@@ -1,0 +1,27 @@
+TOP LEVEL GENRE: Puzzle
+GENRE: RTS
+SUB GENRE: Action Roguelike
+VISUALS: 3D
+THEME 1: Economy
+THEME 2: Colorful
+FEATURES: Building
+PLAYERS: Single player
+ASSESSMENT: Competitive
+
+==========
+
+The game is called "The Great Videogame Economy." 
+
+GAME OVERVIEW: In "The Great Videogame Economy," players will take on the role of a video game company CEO. The goal of the game is to create the most successful video game company by developing hit games and making wise economic decisions. Players will need to manage their resources carefully, as they compete against other video game companies for market share. The game will feature a variety of different genres and gameplay styles, as well as a vibrant and colorful art style. 
+
+GAME OBJECTIVES: Players will need to achieve a high score in order to win the game. The score will be based on a number of factors, including the success of the player's video game company, the quality of the player's games, and the player's economic decisions. 
+
+GAME RULES: Players will take turns making decisions for their video game company. They will need to manage their resources wisely in order to develop hit games and stay afloat economically. Each turn, players can choose to develop a new game, release an existing game, or make economic decisions that will affect their company's bottom line. 
+
+GAME LOOP: The game will continue until one player reaches a predetermined score threshold. At that point, that player will be declared the winner. 
+
+GAME ENVIRONMENT: The game will take place in a virtual video game development studio. Players will be represented by avatars that they can customize to some extent. The studio environment will be highly detailed and interactive, allowing players to really immerse themselves in the experience of running a video game company. 
+
+CHARACTERS: There will be a variety of characters that players can interact with in the game. These characters include other video game company CEOs, employees of the player's company, and customers who purchase the player's games. Each character will have their own personality and motivations that will impact how they interact with the player. 
+
+UNIQUE SELLING POINTS:  "The Great Videogame Economy" is a unique puzzle/strategy/management hybrid that challenges players to create the most successful video games while dealing with corresponding economic issues. The bright and colorful art style creates an immersive and lively experience, while the various genre elements give the gameplay significant depth and replayability."

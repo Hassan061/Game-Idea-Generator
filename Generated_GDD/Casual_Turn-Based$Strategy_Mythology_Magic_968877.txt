@@ -1,0 +1,15 @@
+TOP LEVEL GENRE: Casual
+GENRE: Turn-Based Strategy
+SUB GENRE: Metroidvania
+VISUALS: 2D
+THEME 1: Mythology
+THEME 2: Magic
+FEATURES: Hack and Slash
+PLAYERS: Single player
+ASSESSMENT: Fast-Paced
+
+==========
+
+Gods and Magic 
+
+GAME OVERVIEW: Gods and Magic is a turn-based strategy game with hack and slash gameplay. The objective of the game is to defeat all the enemies in each level. The game loop consists of the player moving their character around the environment, attacking enemies, and avoiding enemy attacks. The game environment is based on Greek mythology and is set in ancient Greece. The characters include gods, goddesses, heroes, and monsters from Greek mythology. The unique selling points of this game are its interesting setting and characters, as well as its fast-paced gameplay.

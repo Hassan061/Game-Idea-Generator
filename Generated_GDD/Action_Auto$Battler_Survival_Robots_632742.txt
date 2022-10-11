@@ -1,0 +1,15 @@
+TOP LEVEL GENRE: Action
+GENRE: Auto Battler
+SUB GENRE: Open World Survival Craft
+VISUALS: First-Person
+THEME 1: Survival
+THEME 2: Robots
+FEATURES: Resource Management
+PLAYERS: Single player
+ASSESSMENT: Fast-Paced
+
+==========
+
+Auto Battler: Survival Craft 
+
+GAME OVERVIEW: Auto Battler: Survival Craft is a fast-paced, open world survival game in which players must scavenge for resources and battling robots in order to survive. Environments are procedurally generated, providing a different challenge each time you play. Additionally, the game features resource management as players must carefully balance their use of resources in order to survive.
